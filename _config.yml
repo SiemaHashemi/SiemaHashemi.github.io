@@ -11,8 +11,8 @@ title                    : "Siema Hashemi"
 title_separator          : "|"
 name                     : &name "Siema Hashemi"
 description              : &description "I am a PhD candidate in Economics at CEMFI"
-url                      : https://SiemaHashemi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "https://SiemaHashemi.github.io" # the subpath of your site, e.g. "/blog"
+url                      : https://siemahashemi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SiemaHashemi/SiemaHashemi.github.io"
 teaser                   : "" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 logo                     : "images/cemfi.png"
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Siema Hashemi"
-  avatar           : "site-foto.png"
+  avatar           : "/images/site-foto.png"
   bio              : "PhD Candidate at CEMFI"  
   location         : "Madrid, Spain"
   employer         :
