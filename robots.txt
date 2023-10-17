@@ -1,0 +1,4 @@
+Sitemap: https://siemahashemi.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
