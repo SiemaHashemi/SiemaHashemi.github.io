@@ -17,9 +17,9 @@ table, td, th {
 
 I am a PhD candidate at [CEMFI](https://www.cemfi.es/) with research interests in Financial Economics, Banking, and Corporate Finance.
 
-I am on the job market in 2023-24, available for interviews at the EEA and the ASSA.
+I am on the job market in 2023-24, and available for interviews at the EEA and the ASSA.
 
-[**Curriculum Vitae**](/files/SiemaHashemi.pdf){: .btn--research}
+[**Curriculum Vitae**](/files/Siema_Hashemi.pdf){: .btn--research}
  
 ## References
 
