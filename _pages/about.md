@@ -31,14 +31,25 @@ I am on the job market in 2023-24, and available for interviews at the EEA and t
 ### Banking on Resolution: Portfolio Effects of Bail-in vs. Bailout 
 _Job market paper_ 
 [[Draft](/files/Banking_resolution.pdf){: .btn--research2}]
-<p> This paper investigates the impact of supervisory resolution tools, specifically bail-ins versus bailouts, on the ex-ante banks’ portfolio composition and resulting default probabilities in the presence of both idiosyncratic and systematic shocks. Banks make decisions regarding short-term versus long-term asset investments while considering the expected supervisory resolution policy. In the baseline model without aggregate risk, I find that bailouts increase the likelihood of default and supervisory interventions. In contrast, bail-ins prevent bank liquidations. When introducing aggregate risk, I show that bailouts may deter systemic events. In contrast, the ex-ante portfolio reallocation effect of bail-ins can potentially be a source of systemic risk. </p> 
+<p> This paper investigates the impact of supervisory resolution tools, specifically bailins
+versus bailouts, on the ex-ante banks’ portfolio composition and resulting default
+probabilities in the presence of both idiosyncratic and systematic shocks. Banks make
+decisions regarding short-term versus long-term asset investments while considering the
+expected supervisory resolution policy. I find that market expectations can generate
+financial instability, which the two resolution tools address through distinct channels.
+Creditor bailouts, acting as debt insurance, reduce funding costs and by that eliminate
+the equilibrium with bank defaults. Whereas, bail-ins alter bank payoffs, induce
+banks to invest less in the risky short-term asset, and possibly prevent defaults. In
+the presence of aggregate risk, I show that creditor bailouts can deter systemic events.
+In contrast, bail-ins are less effective in preventing systemic defaults and could even
+contribute to systemic risk. </p> 
 
 
-### The Effect of Bank Mergers on Lending and Risk-taking
+### The Effect of Bank Mergers on Lending and Risk-Taking
 <p> This paper investigates the effect of bank mergers on banks’ loan rates, leverage, and risk-taking. I consider an economy with n ≥ 3 banks where two of them merge for exogenous reasons. I assume that banks monitor borrowers, which lowers their probability of default, and that monitoring is costly and unobservable which creates a moral hazard problem. With insured deposits as the single source of funding, a merger generates higher loan rates, which in turn increases banks’ margins and monitoring intensities. Introducing equity capital as an additional source of funding enhances monitoring incentives, due to a “skin-in-the-game” effect, which increases loan demand. This creates a trade-off that results in nontrivial changes in post-merger capital, loan rates, and risk-taking. If loan rates increase following the merger, both the merged bank and its competitors increase their leverage. Higher loan rates and leverage exert opposing effects on monitoring intensity and, consequently, on risk-taking.</p>
 
 
-### Bank Supervision and Risk-taking Incentives
+### Banking Supervision and Bank Risk-Takin
 joint with [Rafael Repullo](https://www.cemfi.es/~repullo/)
 
 ## Teaching
