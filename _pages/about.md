@@ -51,7 +51,7 @@ contribute to systemic risk. </p>
 
 ### Banking Supervision and Bank Risk-Takin
 joint with [Rafael Repullo](https://www.cemfi.es/~repullo/)
-
+<p>This paper presents a theoretical analysis of the effects of banking supervision on bank risk-taking. The model features a risk-neutral bank that raises one unit of insured deposits and invests them in a large portfolio of loans. The bank chooses the extent of correlation in defaults, from σ = 0 (independent defaults) to σ = 1 (perfectly correlated defaults). The supervisor observes a noisy signal of the default rate (the proportion of loans that will default) and closes the bank early when the signal is above a threshold. The question is: will this combination of supervisory information and supervisory closure reduce risk-taking (the bank’s choice of σ)? The paper will shed light on the conditions under which a higher quality of supervisory information and/or a tougher closure rule will reduce banks’ risk-taking.</p>
 ## Teaching
 Teaching Assistant at CEMFI:
  * Financial Economics, [Enrique Sentana](https://www.cemfi.es/~sentana/)<br /> <small ><i>Spring 2023<i><small>
