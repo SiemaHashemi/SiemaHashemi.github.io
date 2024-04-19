@@ -32,6 +32,7 @@ I am on the job market in 2023-24, and available for interviews at the EEA and t
 _Job market paper_ 
 [[Draft](/files/Banking_resolution.pdf){: .btn--research2}]
 <p> This paper investigates the impact of supervisory resolution tools, specifically bail-ins versus bailouts, on the ex-ante banks’ portfolio composition and resulting ex-post default probabilities in the presence of both idiosyncratic and systematic shocks. Banks make decisions regarding short-term versus long-term risky investments while considering the expected resolution policy. I find that both types of shocks can generate financial instability, which the two resolution tools address through distinct channels. With only idiosyncratic shocks, creditor bailouts, acting as debt insurance, eliminate the equilibrium with bank defaults, while bail-ins induce banks to invest less in the risky short-term asset, which may also prevent defaults. In the presence of both shocks, creditor bailouts can prevent systemic defaults, while bail-ins are less effective in preventing them and could even contribute to systemic risk. </p> 
+
 _presenting at:  13th MoFiR workshop on Banking, and Women in Banking and Finance EFiC Workshop_
 
 ### The Effect of Bank Mergers on Lending and Risk-Taking
