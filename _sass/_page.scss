@@ -18,9 +18,9 @@
 
 .page {
   @include breakpoint($x-large) {
-    @include span(9 of 11 last);
-    @include prefix(0.5 of 11);
-    @include suffix(2 of 11);
+    @include span(9 of 12 first);
+    @include prefix(0.5 of 12);
+    @include suffix(2 of 12);
     padding-right: 0;
   }
 
