@@ -5,9 +5,9 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 7em;
-  padding-left: 0.75em;
-  padding-right: 0.75em;
+  margin-top: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
@@ -18,10 +18,9 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(9 of 12 first);
+    @include span(9 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
-    padding-right: 0;
   }
 
   .page__inner-wrap {

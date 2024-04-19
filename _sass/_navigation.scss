@@ -187,22 +187,8 @@
     &:hover {
       color: $masthead-link-color-hover;
     }
-
-    &.site-logo {
-      margin-left: 0;
-      margin-right: 0.5rem;
-    }
-
-    &.site-title {
-      margin-left: 0;
-    }
   }
 
-  img {
-    -webkit-transition: none;
-    transition: none;
-  }
-  
   button {
     position: absolute;
     height: 100%;
