@@ -29,7 +29,7 @@ Starting in August 2024, I will join the Management School at the University of 
 ## Research
 
 ### Banking on Resolution: Portfolio Effects of Bail-in vs. Bailout 
-_Job market paper_ 
+_Job market paper (CEMFI working paper Nr 2410)_ 
 [[Draft](/files/Banking_resolution.pdf){: .btn--research2}]
 <p> This paper investigates the impact of supervisory resolution tools, specifically bail-ins versus bailouts, on the ex-ante banks’ portfolio composition and resulting ex-post default probabilities in the presence of both idiosyncratic and systematic shocks. Banks make decisions regarding short-term versus long-term risky investments while considering the expected resolution policy. I find that both types of shocks can generate financial instability, which the two resolution tools address through distinct channels. With only idiosyncratic shocks, creditor bailouts, acting as debt insurance, eliminate the equilibrium with bank defaults, while bail-ins induce banks to invest less in the risky short-term asset, which may also prevent defaults. In the presence of both shocks, creditor bailouts can prevent systemic defaults, while bail-ins are less effective in preventing them and could even contribute to systemic risk. </p> 
 
