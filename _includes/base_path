@@ -2,4 +2,4 @@
   {% assign base_path = site.url %}
 {% else %}
   {% assign base_path = site.github.url %}
-{% endif %}
+{% endif %} 
