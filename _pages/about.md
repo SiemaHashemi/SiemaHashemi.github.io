@@ -17,7 +17,7 @@ table, td, th {
 **Lecturer in Finance**<br>
 Accounting and Finance Group<br>
 University of Liverpool Management School <br>
-research interests: Financial Intermediation, Banking Theory, Banking Regulation and Supervision
+Research Interests: Banking Regulation and Supervision, Banking Theory
 
 [**Curriculum Vitae**](/files/Siema_Hashemi.pdf){: .btn--research}
  <br>
