@@ -10,12 +10,12 @@ locale                   : "en-US" #language
 title                    : "Siema Hashemi"
 title_separator          : "|"
 name                     : &name "Siema Hashemi"
-description              : &description "I am a PhD candidate in Economics at CEMFI"
+description              : &description "Lecturer in Finance"     
 url                      : "https://siemahashemi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SiemaHashemi/SiemaHashemi.github.io"
 teaser                   : "" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-logo                     : "images/cemfi.png"
+logo                     : "images/logo.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -26,7 +26,7 @@ comments:
   disqus:
     shortname            :
   discourse:
-    server               : #
+    server               : ##
   facebook:
     appid                :
     num_posts            : # 5 (default)
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Siema Hashemi"
   avatar           : "foto.png"
-  bio              : "PhD Candidate at CEMFI"  
-  location         : "Madrid, Spain"
-  employer         :
+  bio              : "Lecturer in Finance"  
+  location         : "Liverpool, UK"
+  employer         : "University of Liverpool Management School"
   pubmed           : 
   googlescholar    : 
-  email            : "siema.hashemi@cemfi.edu.es"
+  email            : "siema.hashemi@liverpool.ac.uk"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           :  
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         :  
   orcid            : 
   pinterest        :
   soundcloud       :
