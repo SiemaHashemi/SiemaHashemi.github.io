@@ -14,10 +14,9 @@ table, td, th {
 }
 </style>
 
-Lecturer in Finance<br>
+**Lecturer in Finance**<br>
 Accounting and Finance Group<br>
 University of Liverpool Management School <br>
-siema.hashemi@liverpool.ac.uk
 
 [**Curriculum Vitae**](/files/Siema_Hashemi.pdf){: .btn--research}
  <br>
