@@ -14,20 +14,19 @@ table, td, th {
 }
 </style>
 
-Lecturer in Finance
-Accounting and Finance Group
-University of Liverpool Management School 
+Lecturer in Finance<br>
+Accounting and Finance Group<br>
+University of Liverpool Management School <br>
 siema.hashemi@liverpool.ac.uk
 
 [**Curriculum Vitae**](/files/Siema_Hashemi.pdf){: .btn--research}
- 
+ <br>
+ <br>
 ## References
-
 | [Rafael Repullo](https://www.cemfi.es/~repullo/)  (Main Advisor)<br /> CEMFI| [Gerard Llobet](https://gllobet.github.io/)<br /> CEMFI |
 | [Anatoli Segura](https://sites.google.com/site/anatolisegura/) <br /> Banca d'Italia  |    |
 
 ## Research
-
 ### Banking on Resolution: Portfolio Effects of Bail-in vs. Bailout 
 _Job market paper (CEMFI working paper Nr 2410)_ 
 [[Draft](/files/Banking_resolution.pdf){: .btn--research2}]
