@@ -14,10 +14,10 @@ table, td, th {
 }
 </style>
 
-
-I am a PhD candidate at CEMFI with research interests in Financial Economics, Banking, and Corporate Finance.
-
-Starting in August 2024, I will join the Management School at the University of Liverpool as a Lecturer in Finance.
+Lecturer in Finance
+Accounting and Finance Group
+University of Liverpool Management School 
+siema.hashemi@liverpool.ac.uk
 
 [**Curriculum Vitae**](/files/Siema_Hashemi.pdf){: .btn--research}
  
