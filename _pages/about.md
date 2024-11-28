@@ -30,8 +30,8 @@ Research Interests: Banking Regulation & Supervision, Banking Theory, and Financ
 ## Research
 ### Banking on Resolution: Portfolio Effects of Bail-in vs. Bailout 
 _Job market paper (CEMFI working paper Nr 2410)_ 
-[[Draft](/files/Banking_resolution.pdf){: .btn--research2}]
-<p> This paper investigates the impact of supervisory resolution tools-- bail-ins and bailouts-- on banks’ ex-ante portfolio choice and ex-post default probabilities in response to idiosyncratic and systematic shocks. Banks adjust their short-term and long-term risky investments based on anticipated resolution policies. I find that both types of shocks can create financial fragility, which the two resolution tools address distinctly. Creditor bailouts, acting like deposit insurance, eliminate the equilibrium with bank defaults. Bail-ins, on the other hand, lead to ex-ante portfolio composition adjustments: they reduce solvency risk under idiosyncratic risk but increase liquidity risk when both idiosyncratic and systematic risks are present, increasing the likelihood of systemic defaults. </p> 
+[[Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5036250){: .btn--research2}]
+<p> This paper investigates the impact of supervisory resolution tools-- bail-ins and bailouts-- on banks’ ex-ante portfolio choice and ex-post default probabilities in response to idiosyncratic and systematic shocks. Banks adjust their short-term and long-term risky investments based on anticipated resolution policies. I find that both types of shocks can create financial fragility, which the two resolution tools address differently. Creditor bailouts, i.e., extending deposit insurance coverage, eliminate the equilibrium with bank defaults. On the other hand, bail-ins lead to ex-ante portfolio reallocation: they reduce idiosyncratic risk but increase liquidity risk when both shocks are present, increasing the likelihood of systemic defaults. </p> 
 
 _presenting at: 13th MoFiR Workshop on Banking, Women in Banking and Finance EFiC Workshop, the 2024 Annual Meeting of the Central Bank Research Association (CEBRA), and 10th IWH-Fin-Fire Workshop on „Challenges to Financial Stability”._
 
