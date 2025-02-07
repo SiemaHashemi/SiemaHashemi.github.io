@@ -38,6 +38,7 @@ _presenting at: 13th MoFiR Workshop on Banking, Women in Banking and Finance EFi
 ### The Effect of Bank Mergers on Lending and Risk-Taking
 <p> This paper studies the trade-off between competition and financial stability from banking consolidation. I consider an economy with $n \geq 3$ banks where two merge for exogenous reasons. I assume that banks monitor borrowers, lowering their probability of default and that monitoring is costly and unobservable, creating a moral hazard problem. With insured deposits as the single funding source, a merger generates higher loan rates, increasing banks' margins and monitoring intensities. Thus, bank consolidation hurts competition but increases financial stability. Introducing equity capital as an additional funding source enhances monitoring incentives due to a ``skin-in-the-game'' effect, which increases lending and creates a trade-off that results in nontrivial changes in post-merger capital, loan rates, and risk-taking. If loan rates increase following the merger, the merging bank and its competitors increase their leverage. Higher loan rates and leverage exert opposing effects on monitoring intensity and, consequently, on bank risk. Therefore, advocating banking consolidation to achieve financial stability is no longer evident. </p>
 
+_presenting at: Banking Theory Brown Bag Seminar_
 
 ### Banking Supervision and Bank Risk-Taking
 joint with [Rafael Repullo](https://www.cemfi.es/~repullo/)
