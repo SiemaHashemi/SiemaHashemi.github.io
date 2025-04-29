@@ -44,6 +44,8 @@ _presenting at: 32nd Finance Forum by the Spanish Finance Association (AEFIN), B
 joint with [Rafael Repullo](https://www.cemfi.es/~repullo/)
 <p> This paper presents a theoretical analysis of the effects of banking supervision on bank risk-taking. The model features a risk-neutral bank that raises one unit of insured deposits and invests them in a large portfolio of loans with a random return. The bank chooses the correlation in loan defaults, ranging from independent to perfectly correlated defaults. Meanwhile, the supervisor receives an imprecise signal regarding the proportion of loan defaults and intervenes by closing the bank early when the signal exceeds a threshold. The question is: will this combination of supervisory information and supervisory closure reduce risk-taking? The paper shows that a strict supervisor or a noisy signal reduces portfolio risk. Moreover, a supervisor aiming to close the bank when it is efficient to do so becomes more lenient when the signal noise increases.</p>
 ## Teaching
+Teaching at ULMS:
+ * Digital Banking and Global Payment Systems<br /> <small ><i>Spring 2025<i><small>
 Teaching Assistant at CEMFI:
  * Financial Economics, [Enrique Sentana](https://www.cemfi.es/~sentana/)<br /> <small ><i>Spring 2023<i><small>
  * Economics of Banking, [Javier Suarez](https://www.cemfi.es/~suarez/)<br /> <small ><i>Fall 2021<i><small >
