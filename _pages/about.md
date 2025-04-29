@@ -35,8 +35,7 @@ _Job market paper (CEMFI working paper Nr 2410)_
 
 _presenting at: 13th MoFiR Workshop on Banking, Women in Banking and Finance EFiC Workshop, the 2024 Annual Meeting of the Central Bank Research Association (CEBRA), and 10th IWH-Fin-Fire Workshop on „Challenges to Financial Stability”._
 
-### The Effect of Bank Mergers on Lending and Risk-Taking
-[[Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5235162){: .btn--research2}]
+### The Effect of Bank Mergers on Lending and Risk-Taking [[Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5235162){: .btn--research2}]
 <p> This paper examines the trade-off between competition and the financial stability of bank consolidations. I consider an economy where banks engage in costly and unobservable monitoring to reduce borrower default risk, creating a moral hazard problem. When banks are funded solely by insured deposits, a merger that raises loan rates increases intermediation margins and monitoring intensity. Hence, a consolidation that weakens competition can enhance financial stability. When equity capital is introduced, it acts as a commitment device, signaling monitoring incentives, and boosting loan demand. However, if loan rates rise post-merger, banks may increase leverage as greater market power weakens the signaling value of capital. As a result, higher loan rates and leverage generate opposing effects on monitoring and default risk. Therefore, the financial stability benefit of bank consolidations becomes ambiguous. </p>
 
 _presenting at: 32nd Finance Forum by the Spanish Finance Association (AEFIN), Banking Theory Brown Bag Seminar_
