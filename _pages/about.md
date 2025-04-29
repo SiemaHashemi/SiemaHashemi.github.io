@@ -36,14 +36,18 @@ _Job market paper (CEMFI working paper Nr 2410)_
 _presenting at: 13th MoFiR Workshop on Banking, Women in Banking and Finance EFiC Workshop, the 2024 Annual Meeting of the Central Bank Research Association (CEBRA), and 10th IWH-Fin-Fire Workshop on „Challenges to Financial Stability”._
 
 ### The Effect of Bank Mergers on Lending and Risk-Taking
-<p> This paper studies the trade-off between competition and financial stability from banking consolidation. I consider an economy with $n \geq 3$ banks where two merge for exogenous reasons. I assume that banks monitor borrowers, lowering their probability of default and that monitoring is costly and unobservable, creating a moral hazard problem. With insured deposits as the single funding source, a merger generates higher loan rates, increasing banks' margins and monitoring intensities. Thus, bank consolidation hurts competition but increases financial stability. Introducing equity capital as an additional funding source enhances monitoring incentives due to a ``skin-in-the-game'' effect, which increases lending and creates a trade-off that results in nontrivial changes in post-merger capital, loan rates, and risk-taking. If loan rates increase following the merger, the merging bank and its competitors increase their leverage. Higher loan rates and leverage exert opposing effects on monitoring intensity and, consequently, on bank risk. Therefore, advocating banking consolidation to achieve financial stability is no longer evident. </p>
+[[Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5235162){: .btn--research2}]
+<p> This paper examines the trade-off between competition and the financial stability of bank consolidations. I consider an economy where banks engage in costly and unobservable monitoring to reduce borrower default risk, creating a moral hazard problem. When banks are funded solely by insured deposits, a merger that raises loan rates increases intermediation margins and monitoring intensity. Hence, a consolidation that weakens competition can enhance financial stability. When equity capital is introduced, it acts as a commitment device, signaling monitoring incentives, and boosting loan demand. However, if loan rates rise post-merger, banks may increase leverage as greater market power weakens the signaling value of capital. As a result, higher loan rates and leverage generate opposing effects on monitoring and default risk. Therefore, the financial stability benefit of bank consolidations becomes ambiguous. </p>
 
-_presenting at: Banking Theory Brown Bag Seminar_
+_presenting at: 32nd Finance Forum by the Spanish Finance Association (AEFIN), Banking Theory Brown Bag Seminar_
 
 ### Banking Supervision and Bank Risk-Taking
 joint with [Rafael Repullo](https://www.cemfi.es/~repullo/)
 <p> This paper presents a theoretical analysis of the effects of banking supervision on bank risk-taking. The model features a risk-neutral bank that raises one unit of insured deposits and invests them in a large portfolio of loans with a random return. The bank chooses the correlation in loan defaults, ranging from independent to perfectly correlated defaults. Meanwhile, the supervisor receives an imprecise signal regarding the proportion of loan defaults and intervenes by closing the bank early when the signal exceeds a threshold. The question is: will this combination of supervisory information and supervisory closure reduce risk-taking? The paper shows that a strict supervisor or a noisy signal reduces portfolio risk. Moreover, a supervisor aiming to close the bank when it is efficient to do so becomes more lenient when the signal noise increases.</p>
 ## Teaching
+Teaching at ULMS:
+* Digital Banking and Global Payment Systems<br>
+
 Teaching Assistant at CEMFI:
  * Financial Economics, [Enrique Sentana](https://www.cemfi.es/~sentana/)<br /> <small ><i>Spring 2023<i><small>
  * Economics of Banking, [Javier Suarez](https://www.cemfi.es/~suarez/)<br /> <small ><i>Fall 2021<i><small >
