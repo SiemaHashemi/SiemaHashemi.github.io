@@ -28,8 +28,9 @@ Research Interests: Banking Regulation & Supervision, Banking Theory, and Financ
 | [Anatoli Segura](https://sites.google.com/site/anatolisegura/) <br /> Banca d'Italia  |    |
 
 ## Research
-### The Effect of Bank Mergers on Lending and Risk-Taking [[Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5235162){: .btn--research2}]
-_Revised and Resubmit at Management Science_
+### The Effect of Bank Mergers on Lending and Risk-Taking 
+_Revised and Resubmit at Management Science_ 
+[[Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5235162){: .btn--research2}]
 <p> This paper examines the trade-off between competition and the financial stability of bank consolidations. I consider an economy where banks engage in costly and unobservable monitoring to reduce borrower default risk, creating a moral hazard problem. When banks are funded solely by insured deposits, a merger that raises loan rates increases intermediation margins and monitoring intensity. Hence, a consolidation that weakens competition can enhance financial stability. When equity capital is introduced, it acts as a commitment device, signaling monitoring incentives, and boosting loan demand. However, if loan rates rise post-merger, banks may increase leverage as greater market power weakens the signaling value of capital. As a result, higher loan rates and leverage generate opposing effects on monitoring and default risk. Therefore, the financial stability benefit of bank consolidations becomes ambiguous. </p>
 
 _presented at: 32nd Finance Forum by the Spanish Finance Association (AEFIN), Banking Theory Brown Bag Seminar_
